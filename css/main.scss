@@ -1,0 +1,24 @@
+---
+---
+
+@charset "utf-8";
+
+// variables.less link and gradient background
+$head-primary: #c0c0c0;
+$head-secondary: #858585;
+$theme-primary: #71a8a6;
+$theme-secondary: #a7b4c5;
+$theme-dark: #222;
+$font-head: "Open Sans", sans-serif;
+$font-body: "Open Sans", serif;
+$font-mono: "Droid Sans Mono", monospace;
+$font-mono-size: 1.0em;
+$font-mono-line-height: 1.2;
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "bootstrap",
+        "base",
+        "github",
+        "flexbin"
+;

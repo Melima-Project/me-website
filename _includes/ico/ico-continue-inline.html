@@ -1,0 +1,13 @@
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="c"># {{ site.data.theme.importkeys.[site.active_lang] }}</span>
+gpg --keyserver hkp://keyserver.ubuntu.com --recv 57231EB8 F489C412
+
+<span class="c"># {{ site.data.theme.fingerprints.[site.active_lang] }}</span>
+<span class="c"># PGP <em>57231EB8</em> (admin@hda.me) key fingerprint:</span>
+<span class="c">#        <strong style="color:#b37356;">D17C A1EE 2ADA C417 0D71  DDDE E9E0 0DD3 5723 1EB8</strong></span>
+<span class="c"># PGP <em>F489C412</em> (mmail@sent.com) key fingerprint:</span>
+<span class="c">#        <strong style="color:#b37356;">047B B8D1 84F2 21B4 F7FE  9CF4 BF9D 52F1 F489 C412</strong></span>
+gpg --list-keys --fingerprint 57231EB8 F489C412
+
+<span class="c"># {{ site.data.theme.dandcheck.[site.active_lang] }}</span>
+curl <a href="{{ site.baseurl }}/contract_address.txt">https://melima.hda.me/contract_address.txt</a> | gpg --verify
+</code></pre></div>

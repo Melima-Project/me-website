@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Docs and Guides"
+description: Melima - Documentation and Guides Collection
+permalink: /doc/
+lang: en
+---
+
+<div class="index container-fluid"><div class="index all-posts row">
+<div class="articles col-md-12 content-panel">
+{% for category in site.categories %}
+<div class="articles col-md-12 content-panel">
+<h3 id="{{ category | first }}-ref">{{ category | first }}</h3>
+<ul style=list-style:none>
+{% for posts in category %} {% for post in posts %}
+<li>
+<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+<small class=hidden-xs></small>
+</li>
+{% endfor %} {% endfor %}
+</ul>
+</div>  
+{% endfor %}
+</div>
+<a href="{{ site.baseurl }}/" class="btn btn-outline-success" id="blue-outline-btn" title="{{ site.data.theme.main.[site.active_lang] }}">&larr; Melima</a>
+</div>
+

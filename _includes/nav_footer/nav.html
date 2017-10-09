@@ -1,0 +1,12 @@
+<div class=container>
+<a href={{ site.baseurl }}><img src=/img/logo.svg title="Melima Project" width=30></a>
+<a href=#page-top class="page-scroll navbar-brand" id=melima-page-up title="{{ site.data.theme.pgup.[site.active_lang] }}">&uarr;Melima</a>
+<ul class="ml-auto nav navbar-nav">
+<li class=nav-item><a href="{{ site.baseurl }}/#ico" class="page-scroll nav-link">{{ site.data.theme.ico.[site.active_lang] }}</a></li>
+<li class=nav-item><a href="{{ site.baseurl }}/whitepaper.pdf" class="page-scroll nav-link">Whitepaper</a></li>
+<li class=nav-item><a href="{{ site.baseurl }}/team" class="page-scroll nav-link">Team</a></li>
+<li class=nav-item><a href="{{ site.baseurl }}/scr" class="page-scroll nav-link">{{ site.data.theme.screenshots.[site.active_lang] }}</a></li>
+<li class=nav-item><a href="{{ site.baseurl }}/{{ site.data.theme.codedetector2.[site.active_lang] }}#contribute" class="page-scroll nav-link">{{ site.data.theme.contribute.[site.active_lang] }}</a></li>
+<li class=nav-item><a href="{{ site.baseurl }}/doc" class="page-scroll nav-link">{{ site.data.theme.doc.[site.active_lang] }}</a></li>
+{% for tongue in site.languages %}<li class=nav-item><a {% if tongue == site.active_lang %}id="lang-selected"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}" class="page-scroll nav-link">{{ tongue }}</a>{% endfor %}
+</ul></div></nav>

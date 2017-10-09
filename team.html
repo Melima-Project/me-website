@@ -1,0 +1,29 @@
+---
+layout: basic
+title: "Team"
+subtitle: "Melima Project Team"
+description: Melima - Team
+lang: en
+permalink: /team/
+---
+
+{% capture team %}{% include team/team.md %}{% endcapture %}
+{{ team | markdownify }}
+<ul class="icon-links">
+<li class="icon-link-item"><a href="//github.com/cryptofuture">{{ site.data.theme.img.github }}</a></li>
+<li class="icon-link-item"><a href="//www.linkedin.com/in/secnet">{{ site.data.theme.img.linkedin }}</a></li>
+<li class="icon-link-item"><a href="https://blog.hda.me">{{ site.data.theme.img.blog }}</a></li>
+</ul><p></p>
+{% capture team2 %}{% include team/team2.md %}{% endcapture %}
+{{ team2 | markdownify }}
+<ul class="icon-links">
+<li class="icon-link-item"><a href="//github.com/goodier">{{ site.data.theme.img.github }}</a></li>
+<li class="icon-link-item"><a href="//www.linkedin.com/in/web-oplata/">{{ site.data.theme.img.linkedin }}</a></li>
+</ul><p></p>
+{% capture team3 %}{% include team/team3.md %}{% endcapture %}
+{{ team3 | markdownify }}
+<ul class="icon-links">
+<li class="icon-link-item"><a href="//github.com/amartsipaka">{{ site.data.theme.img.github }}</a></li>
+<li class="icon-link-item"><a href="//www.linkedin.com/in/andrey-martsipaka-346a8911b">{{ site.data.theme.img.linkedin }}</a></li>
+</ul><p></p>
+

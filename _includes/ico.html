@@ -1,0 +1,16 @@
+<div id="ico"><div class="modal-body row text-center">
+<div class="col-lg-4"><p></p><div id=ico-part1><br>
+{% capture ico %}{% include ico/ico.md %}{% endcapture %}
+{{ ico | markdownify }}
+</div></div>
+
+<div class="col-lg-4"><p></p><div id=ico-part2>
+{% capture icomain %}{% include ico/icomain.md %}{% endcapture %}<div id="ico-part2-inner">
+{{ icomain | markdownify }}</div><br><a class="btn-lg btn-success" id="grey-btn-submit" title="{{ site.data.theme.accept-continue.[site.active_lang] }}">{{ site.data.theme.accept-continue.[site.active_lang] }}</a><div id=contract hidden><div id=ico-part2><div id=contract-addr>{% capture contract-addr %}{% include ico/contract-addr.md %}{% endcapture %}{{ contract-addr | markdownify }}</div><div id="ico-part2-inner">{% capture ico-continue %}{% include ico/ico-continue.md %}{% endcapture %}{{ ico-continue | markdownify }}</div><img src="/img/post-images/signed.png" alt="This commit was signed with a verified signature"><br><br><div id="ico-part2-inner">{% capture ico-continue2 %}{% include ico/ico-continue2.md %}{% endcapture %}{{ ico-continue2 | markdownify }}</div></div></div>
+</div></div>
+
+<div class="col-lg-4"><p></p><div id=ico-part3>
+{% capture benefit %}{% include ico/benefit.md %}{% endcapture %}
+{{ benefit | markdownify }}
+</div></div>
+</div></div>

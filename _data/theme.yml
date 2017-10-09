@@ -1,0 +1,535 @@
+posted: 
+  en: Posted on
+  ru: Опубликовано
+order:
+  en: Order
+  ru: Заказать
+main:
+  en: Back to Front Page
+  ru: Назад на Главную Страницу
+continue:
+  en: Continue
+  ru: Продолжить
+accept-continue:
+  en: Accept And Continue
+  ru: Согласиться и Продолжить
+year:
+  en: year
+  ru: в год
+month:
+  en: month
+  ru: в месяц
+hour:
+  en: hour
+  ru: в час
+starting:
+  en: Starting
+  ru: Начиная от
+slash:
+  en: /
+  ru: 
+per:
+  en: per
+  ru: к
+cat: 
+  en: Categories
+  ru: Категория
+year2:
+  en: Years
+  ru: Год
+support:
+  en: Support
+  ru: Получить поддержку
+back:
+  en: Back
+  ru: Назад
+previous:
+  en: Previous
+  ru: Предыдущий
+next:
+  en: Next
+  ru: Cледующий
+screenshot:
+  en: Check screenshot
+  ru: Посмотреть скриншот
+ico:
+  en: ICO
+  ru: ICO
+screenshots:
+  en: Screenshots
+  ru: Cкриншоты
+join-ico:
+  en: Join ICO
+  ru: Участвовать в ICO
+contribute:
+  en: Contribute
+  ru: Внести вклад
+community:
+  en: Community
+  ru: Сообщество
+subscribe:
+ en: Subscribe
+ ru: Подписаться
+light-theme:
+  en: Light theme
+  ru: Светлая тема
+dark-theme:
+  en: Dark theme
+  ru: Темная тема
+pgup:
+  en: Page Up
+  ru: Поднять страницу вверх
+plans:
+  en: Plans
+  ru: Тарифы
+help:
+  en: Docs & Guides
+  ru: Документация и руководства
+support2:
+  en: Support
+  ru: Поддержка
+tos:
+  en: Terms of Service
+  ru: Условия использования
+blog:
+  en: Blog
+  ru: Блог
+partner:
+  en: Partner With Us
+  ru: Сотрудничайте с нами
+weuse:
+  en: Open-source software we use
+  ru: СПО, которое мы используем
+privacy:
+  en: Privacy Policy
+  ru: Политика конфиденциальности
+submit:
+  en: Submit
+  ru: Отправить
+helpdesk:
+  en: Helpdesk
+  ru: Cистема поддержки
+mail:
+  en: Send an email
+  ru: Отправить email
+channels:
+  en: Support channels
+  ru: Способы поддержки
+types:
+  en: Support types
+  ru: Типы поддержки
+form:
+  en: Feedback Form
+  ru: Форма поддержки
+limited:
+  en: Limited support
+  ru: Ограниченная
+prioritized:
+  en: Prioritized
+  ru: Приоритетная
+codedetector:
+  en: 
+  ru: ru/
+codedetector2:
+  en: 
+  ru: ru
+style:
+  en:
+  ru: ;font-size:2.1rem
+h1hacked:
+  en: <h1>
+  ru: <h2>
+h1hacked2:
+  en: </h1>
+  ru: </h2>
+icostart:
+  en: ICO Start
+  ru: Начало ICO
+icoend:
+  en: ICO End
+  ru: Конец ICO
+undefined:
+  en: undefined
+  ru: не определено
+target:
+  en: Minimal Target For Successful Contract
+  ru: Минимальная цель для успешного контракта
+distribution:
+  en: ME Tokens For Distribution
+  ru: ME токенов к распространению
+exchange-rate:
+  en: ME Token Exchange Rate
+  ru: ME токен обменный курс
+currency-accepted:
+  en: Currency Accepted
+  ru: Поддерживаемая валюта
+just:
+  en: Just
+  ru: 
+melima-description:
+  en: Open-source ordering system
+  ru: Открытая система заказов
+ubq-only:
+  en: only
+  ru: 
+ubq-only-hack:
+  en:
+  ru: Только
+startbonus:
+  en: Start Bonus
+  ru: Стартовый бонус
+fivedays:
+  en: in first 5 days
+  ru: первые 5 дней
+investbonus:
+  en: Invest Bonus
+  ru: Бонус инвестора
+loe:
+  en: for any amount less or equal
+  ru: для суммы меньшей или равной
+one-stack:
+  en: one
+  ru: одному
+inonestack:
+  en: How much is in one stack
+  ru: Сколько в одном stack
+onestackfull:
+  en: One stack is 10,000 ME (or 100 UBQ, as per ICO conversion rate)
+  ru: В одном stack 10000 ME (или 100 UBQ по курсу ICO)
+zerohack:
+  en: "0,"
+  ru: 0
+minamount:
+  en: Minimum amount to invest
+  ru: Минимальная сумма для инвестирования
+minamountfull:
+  en: Minimum amount to invest is
+  ru: Минимальная сумма для инвестирования составляет
+createdinaway:
+  en: ME Token ICO created in a way to make both small investors and serious investors benefit
+  ru: ME токен ICO создано так, чтобы и мелкие и крупные инвесторы остались довольны
+yesextra:
+  en: Yes, this means that you can invest in 10 ME and receive extra 50 ME or 30 ME
+  ru: Да, это означает что вы можете инвестировать в 10 ME и получить дополнительно 50 ME или 30 ME 
+runsontop1:
+  en: runs on top
+  ru: проходит на базе
+runsontop2:
+  en: and this means afordable price and fair distribution
+  ru: и это подрузумевает по собой доступную цену и честное распределение
+growpotential:
+  en: UBQ platform has nice grow potenticial and same apply to any token on top UBQ platform
+  ru: Платформа UBQ имеет хороший задаток для роста, и это в том числе применимо к любому токену на базе UBQ 
+mebonus1:
+  en: bonus for every investment less or equal one stack
+  ru: бонус для каждой инвестиции меньше или равной одному stack 
+bonus:
+  en: bonus
+  ru: бонус
+privilege:
+  en: What benefits is one stack or higher investment give
+  ru: Какие привилегии дает инвестирование в один stack или более
+stackholder: 
+  en: With one stack or more ME Tokens in ownership investor could be qualified as stackholder
+  ru: С одним stack или большим количеством ME токенов во владении, инвестор может быть квалифицирован как стейкхолдер
+stackholder2:
+  en: After investor became qualified as stackholder, stackholder could receive some percent from our future profits
+  ru: После того как инвестор становится полноправным стейкхолдером, стейкхолдер может получать некоторый процент, от нашей будущей прибыли
+howstackholder:
+  en: How to became stackholder
+  ru: Как стать стейкхолдером
+howstackholder2:
+  en: You need to invest at least in one stack
+  ru: Вы должны инвестировать как минимум в один stack
+emailstackholder:
+  en: You need to provide your email (valid email) in 
+  ru: Вы должны указать ваш email (действующий email) в
+checkstackholder:
+  en: How to check my stackholder status
+  ru: Как проверить свой статус стейкхолдера
+gddoc:
+  en: Check public available document in
+  ru: Ознакомьтесь с открытым публично документом в
+melima: Melima
+melima-core: https://github.com/Melima-Project/me-core
+melima-web: https://github.com/Melima-Project/me-web
+melima-android: https://github.com/Melima-Project/me-android
+melima-web-active-orders-scr:
+  en: Melima Web - Active Orders Monitor
+  ru: Melima Web - Монитор Текущих заказов
+melima-web-product-list:
+  en: Melima Web - Product List
+  ru: Melima Web - Продукты
+melima-web-orders-list:
+  en: Melima Web - Orders List
+  ru: Melima Web - Заказы
+melima-web-product-edit:
+  en: Melima Web - Modifying product details
+  ru: Melima Web - Редактирование продукта
+only:
+  en: Only
+  ru: Только
+check-source:
+  en: Check Contract Source
+  ru: Проверить исходный код контракта
+reseller:
+  en: plans apply to resseler program
+  ru: тарифы допустимы к реселлер программе
+more:
+  en: Learn More
+  ru: Узнать подробнее
+morestart:
+  en: Learn More About Start
+  ru: Узнать подробнее о Старт
+moreadvanced:
+  en: Learn More About Advanced
+  ru: Узнать подробнее о Продвинутый
+moreha:
+  en: Learn More About High availability
+  ru: Узнать подробнее о Высокая доступность
+morecustom:
+  en: Learn More About Custom
+  ru: Узнать подробнее о На Заказ
+heading:
+  en: section-heading
+  ru: section-heading2
+heading3:
+  en: section-heading3
+  ru: section-heading3
+heading4:
+  en: section-heading4
+  ru: section-heading4
+andplus:
+  en: and
+  ru: плюс
+contact:
+  en: Contact
+  ru: Связаться
+refund:
+  en: Refund Policy
+  ru: Политика возврата
+and:
+  en: and
+  ru: и
+logoright:
+  en: All logos and trademarks are property of their respective owners.
+  ru: Все торговые марки и бренды, а так же их логотипы, принадлежат их законным владельцам. 
+img:
+  github: <img src="/img/oss-logos/icon-github.svg" width="40" title="GitHub">
+  reddit: <img src="/img/oss-logos/icon-reddit.svg" width="28" title="Reddit">
+  twitter: <img src="/img/oss-logos/icon-twitter.svg" width="40" title="Twitter">
+  steemit: <img src="/img/oss-logos/icon-steemit.svg" width="46" title="Steemit">
+  slack: <img src="/img/oss-logos/icon-slack.svg" width="40" title="Slack">
+  linkedin: <img src="/img/oss-logos/icon-linkedin.svg" width="40" title="LinkedIn">
+  rocket: <img src="/img/oss-logos/icon-rocket.svg" width="40" title="Melima Group Chat">
+  blog: <img src="/img/oss-logos/icon-website.svg" width="40" title="Personal Blog">
+social:
+  twitter: https://twitter.com/Melima_Project
+  reddit: https://www.reddit.com/r/melima/
+  steemit: https://steemit.com/@melima
+  github: https://github.com/Melima-Project/
+  rocket: https://chat.melima.me
+doc:
+  en: Documentation
+  ru: Документация
+mainrules:
+  en: Main Rules
+  ru: Главные правила участия
+or:
+  en: or
+  ru: или
+yhts:
+  en: You have to send UBQ funds from your personal wallets like
+  ru: Вам нужно отправлять UBQ c персонально кошелька такого как
+notexchange:
+  en: Do not send funds from exchanges like Bittrex, Cryptopia, LiteBit.eu, Coinbase, Poloniex and etc
+  ru: Не отправляйте средства с бирж таких как Bittrex, Cryptopia, LiteBit.eu, Coinbase, Poloniex и т.д
+beforefundraiser:
+  en: Do not send your funds before the fundraiser has begun
+  ru: Не отправляйте ваши средства, до того как начнется сбор средств
+notusahk:
+  en: By participating in this fundraiser you confirm that you not a citizen of the USA, China or Hong Kong
+  ru: Своим участием в сборе средств, вы подтверждайте, что вы не являетесь гражданином США, Китая или Гонконга
+qualified_as_stackholder1:
+  en: You need to invest minimum in one stack and include your valid email in data field, if you want to be
+  ru: Вам нужно инвестировать минимум в один stack и указать ваш действующий email в data field, если вы хотите быть
+qualified_as_stackholder2:
+  en: qualified as stackholder
+  ru: классифицированы как стейкхолдер
+emailshared:
+  en: You agree that your email may be shared openly in stackholder list
+  ru: Вы согласны с тем, что ваш email может быть опубликован открыто в списке
+on1:
+  en: 'on'
+  ru: на
+awarespam:
+  en: You aware that your email could be easily extracted from data field and
+  ru: Вы осведомлены, что ваш email может быть легко извлечен из data field и
+spamhack:
+  en: used by spammers or hackers
+  ru: использован спамерами или взломщиками
+atleastone:
+  en: You agree that at least one stack
+  ru: Вы согласны с тем, что хотя бы
+ssaved:
+  en: should be saved in your personal wallet, if you want to
+  ru: должно оставаться в вашем персональном кошельке, если вы хотите
+sprivilege:
+  en: save your stackholder status
+  ru: сохранить ваш статус в качестве стейкхолдера
+youagree:
+  en: You agree that your
+  ru: Вы согласны с тем, что ваша
+sharecalc:
+  en: will be calculated based on your actual personal balance every month
+  ru: будет рассчитана исходя из вашего актуального баланса каждый месяц
+onetransaction1:
+  en: You agree that only one transaction with the highest amount will be used for
+  ru: Вы согласны с тем, что только одна транзакция с наибольшей суммой будет использована в качестве
+onetransaction2:
+  en: in situation, when you send multiple transactions with same email in data field
+  ru: в случае, когда вы отправили множественные транзакции с одинаковым email в data field 
+onevalid:
+  en: You agree that you can use only one valid email address in data field, in case we detect multiple emails used by the same person, you'll be removed from
+  ru: Вы согласны с тем, что вы можете использовать только один действующий email в data field, в случае если мы обнаружим использование нескольких email одним и тем же инвестором, вы будете удалены из
+stackholder_list3:
+  en: stackholders list
+  ru: списка стейкхолдеров
+randaudited:
+  en: You agree with ME Token smart contract and sending your funds to the contract address automatically means that your read and audited
+  ru: Вы согласны со смарт контрактом ME токена и отправка ваших средств на адрес контракта автоматически означает, что вы ознакомились, и провели необходимый аудит
+contractsrc:
+  en: contract source code
+  ru: исходников контракта
+responsible:
+  en: You agree that only you responsible for your investments
+  ru: Вы согласны с тем, что только вы отвечайте за свои инвестиции
+readrules:
+  en: Sending your funds to the contract address automatically means that you read rules, even when you didn't or have no physical possibility to read
+  ru: Отправка средств на адрес контракта автоматически означает, что вы прочитали правила, даже тогда, когда у вас нет физической возможности
+contractaddress:
+  en: Contract Address
+  ru: Адрес контракта
+verifycontractadr:
+  en: How to verify contract address
+  ru: Как проверить адрес контракта
+open:
+  en: Open
+  ru: Откройте
+makesure:
+  en: and make sure commit is signed and you see the same address as on the page
+  ru: и убедитесь, что коммит подписан и вы видите тот же адрес, что и на странице
+verifycontractadr2:
+  en: How to verify contract address (another way)
+  ru: Как проверить адрес контракта (другой способ)
+import:
+  en: Import
+  ru: Импортировать
+pgp_keys:
+  en: PGP keys
+  ru: PGP ключи
+download:
+  en: Download
+  ru: Скачать
+andcheckwith:
+  en: file and check it with
+  ru: файл и проверить с
+checksame:
+  en: Open file and check that contract address on the page is the same
+  ru: Открыть файл и проверить что адрес совпадает с адресом на странице
+importkeys:
+  en: Import keys
+  ru: Импортировать ключи
+fingerprints:
+  en: Check fingerprints
+  ru: Проверить отпечатки
+dandcheck:
+  en: Download and check file with contract address
+  ru: Скачать и проверить файл с адресом контракта
+stackholder_share:
+  en: stackholder share
+  ru: доля стейкхолдера
+stackapplication:
+  en: stackholder application
+  ru: заявления в стейкхолдеры
+youcanhelpas:
+  en: You can help as
+  ru: Вы можете помочь в качестве
+programmer:
+  en: programmer
+  ru: программиста
+translator:
+  en: translator
+  ru: переводчика
+or_improve:
+ en: or improve
+ ru: или улучшить
+doc2:
+  en: documentation
+  ru: документацию
+socializer:
+  en: Feel like socializer?
+  ru: Хочется больше общения?
+spreadtheword:
+  en: Spread the word about
+  ru: Рассказывайте другим о
+join:
+  en: Join us on
+  ru: Присоединяйтесь к нам
+issue:
+  en: Have an issue?
+  ru: Столкнулись с проблемой?
+select:
+  en: Select
+  ru: Выберите
+project:
+  en: project
+  ru: проект
+issuecreate:
+  en: you have problem with and open an issue
+  ru: с которым вы испытывайте проблему и создайте "issue"
+pullrequestsupport:
+  en: Pull Request Support Program
+  ru: Программа поддержки pull request'ов
+any:
+  en: Any
+  ru: Каждый
+isunderpull:
+  en: is under *Pull Request Support Program*
+  ru: учавствует в "Программе поддержки pull request'ов"
+thismeanspull:
+  en: This means that we pay ME Tokens for every useful pull request you contribute.
+  ru: Это означает, что мы платим ME токены за каждый pull request.
+we_sort:
+  en: We sort pull request by quality and difficulty. **Rates are the folowing:** 
+  ru: Мы разделяем pull request'ы по качеству и трудности. **Применяются следующие расценки:**
+pull1:
+  en: Small easy pull request, mistype fix, small documentation addition or update
+  ru: Небольшой легкий pull request, исправление в написании, небольшое дополнение или обновление для документации
+pull2:
+  en: Small and useful pull request or middle pull request, new section or new arcticle in documentation or significant update in documentation, non critical security fix (mostly bad practice fix or potential security flaw)
+  ru: Небольшой полезный pull request или средний pull request, новая секция или статья в документации, крупное обновление документации, фикс для не критической ошибки безопасности (фикс плохой практики или потенциальной ошибки безопасности)
+pull3:
+  en: Handy middle pull request or small pull request with new functional implementation (like something from roadmap, or hard in implementation), actual security fix
+  ru: Средний полезный pull request, или небольшой  pull request с новым функционалом (например что-то из roadmap, или сложное в исполнении), актуальное исправление ошибки безопаности
+pull4:
+  en: Hard middle pull request, something annoying in implementation, critical security fix 
+  ru: Средний, но сложный pull request, фикс критической уязвимости
+pull5:
+  en: Significant pull request with hard in implementation functional, critical security fix (exploit in the wild)
+  ru: Достаточно большой pull request с чем-то сложным в исполнении, фикс для критической уязвимости (которая уже эксплуатируется)
+niceattempt:
+  en: We also may pay extra, if we like your work. Or pay something when we see that you really tried, but we didn’t accepted pull request.
+  ru: Также мы можем заплатить больше, если нам понравилась ваша работа. Или мы может заплатить, если мы видим, что вы очень старались, но pull request не был принят.
+activepull1:
+  en: "Note #1: Pull request program will be active after successful ICO"
+  ru: "Note #1: Программа поддержки pull request'ов станет активна, после успешного ICO"
+activepull2:
+  en: "Note #2: Outsourced or full-time team members are excluded from Pull Request Support Program"
+  ru: "Note #2: Разработчики на аутсорсе и разработчики на полной ставке исключаются из участия в данной программе"
+in:
+  en: in
+  ru: в
+repository:
+  en: repository
+  ru: репозитории

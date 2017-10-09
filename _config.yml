@@ -1,0 +1,42 @@
+title: Melima
+
+url: "https://melima.me"
+baseurl: ""
+description: Open-source ordering system for small businesses
+image: /images/cover.png
+logo: /images/logo.png
+permalink: pretty
+
+social:
+  name: Melima-Project
+  links:
+    - https://github.com/Melima-Project
+    - https://steemit.com/@melima/
+    - https://www.reddit.com/r/melima/
+    - https://twitter.com/Melima_Project
+    - https://chat.melima.me/
+    
+languages: ["en", "ru"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "img", "css"]
+parallel_localization: true
+    
+compress_html:
+# blanklines: true
+  clippings: [div, p, ul, td, h1, h2, h3, h4]
+  endings: [li, td]
+  comments: all
+  startings: [html, head, body]
+
+sass:
+  sass_dir: "_sass/"
+  style: compressed
+# nested
+# compact
+# expanded
+# compressed
+  
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-polyglot
