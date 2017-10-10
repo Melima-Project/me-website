@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5 {
 
 #melima-page-up {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 600; }
 
 #melima-page-up:hover, #melima-page-up:focus, #melima-page-up:active {
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5 {
   font-family: "Open Sans", serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 11px;
+  font-size: 12px;
   color: #222222; }
 
 .navbar-default .nav > li > a:focus {
@@ -149,7 +149,8 @@ code {
 #ico {
   margin-left: 1%;
   margin-right: 1%;
-  margin-bottom: 1%;}
+  margin-bottom: 1%;
+  padding-bottom: 0.5%;}
 
 #ico-part1 {
   height: 97%;
@@ -423,7 +424,8 @@ section {
   
 #grey-btn, #grey-btn-submit {
   background-color: #8a8a8a;
-  border-color: #8a8a8a;}
+  border-color: #8a8a8a;
+  letter-spacing: 1px;}
   
 #grey-btn:focus, #grey-btn-submit:focus {
   -webkit-box-shadow:0 0 0 2px rgba(138, 138, 138, 0.5);
