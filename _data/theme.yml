@@ -501,7 +501,7 @@ thismeanspull:
   en: This means that we pay ME Tokens for every useful pull request you contribute.
   ru: Это означает, что мы платим ME токены за каждый pull request.
 we_sort:
-  en: We sort pull request by quality and difficulty. **Rates are the folowing:** 
+  en: We sort pull request by quality and difficulty. **Rates are the following:** 
   ru: Мы разделяем pull request'ы по качеству и трудности. **Применяются следующие расценки:**
 pull1:
   en: Small easy pull request, mistype fix, small documentation addition or update
