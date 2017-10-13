@@ -248,8 +248,8 @@ checkstackholder:
   en: How to check my stackholder status
   ru: Как проверить свой статус стейкхолдера
 gddoc:
-  en: Check public available document in
-  ru: Ознакомьтесь с открытым публично документом в
+  en: Check public available document
+  ru: Ознакомьтесь с открытым публично документом
 melima: Melima
 melima-core: https://github.com/Melima-Project/me-core
 melima-web: https://github.com/Melima-Project/me-web
