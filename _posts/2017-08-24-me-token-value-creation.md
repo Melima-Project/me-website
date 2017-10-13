@@ -18,19 +18,19 @@ First of all:
 
 ### More value
 
-Just after ICO ends, we launch [Metrics Service]({{ site.baseurl }}) for ME Tokens. While Metrics service is a separate project, it could help to add some value.
+Just after ICO ends, we launch [Metrics Service](https://metrics.hda.me) for ME Tokens. While Metrics service is a separate project, it could help to add some value.
 
 We want to create [Marketplace]({{ site.baseurl }}/me-glossary/) based on Melima Core. This will not be full exchange, but more like [Changelly](https://changelly.com/) alike service, but here users will be able to create exchange offers. 
 
 We surely also, want to add ME Tokens to more exchanges, and if you represent exchange and want to help, [contacts us](mailto:me@melima.me).
 
-We want to make Melima Cloud, based on Melima Core and Melima Web. Service to host Melima for you, and it will be payed with ME Tokens. It will be also integrated with [Metrics Service]({{ site.baseurl }}). And also [Sparrow](https://github.com/ubiq/sparrow-plugin) (Metamask Fork) will be integrated with Melima, so you could sell you products for ME Tokens too.
+We want to make Melima Cloud, based on Melima Core and Melima Web. Service to host Melima for you, and it will be payed with ME Tokens. It will be also integrated with [Metrics Service](https://metrics.hda.me). And also [Sparrow](https://github.com/ubiq/sparrow-plugin) (Metamask Fork) will be integrated with Melima, so you could sell you products for ME Tokens too.
 
-Another thing is that we want to lauch  [Schrödinger’s Cat]({{ site.baseurl }}/me-glossary/) game smart contract, and funds from it also will be used to share profits with our [stackholders]().
+Another thing is that we want to launch  [Schrödinger’s Cat]({{ site.baseurl }}/me-glossary/) game smart contract, and funds from it also will be used to share profits with our [stackholders]({{ site.baseurl }}/ico-faq/#qualified).
 
 Also, we may make separate Melima Droid (non-free) Premium version also, but this is [under discussion](https://github.com/Melima-Project/me-droid/issues/1).
 
-Funds from the ICO will be diversified, and we also intend to activily trade with 10% of the funds. And profit from risky funds trading will be also shared with stackholders.
+Funds from the ICO will be diversified, and we also intend to actively trade with 10% of the funds. And profit from risky funds trading will be also shared with stackholders.
 
 As for exact dates, check our [Roadmap]({{ site.baseurl }}#roadmap).
 
