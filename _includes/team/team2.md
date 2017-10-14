@@ -1,5 +1,5 @@
 **Andrey Chetverikov**  
-*Lead Web Developer and Development Assistent*
+*Lead Web Developer and Development Assistant*
 
 - Internet gambling industry pioneer in Kazakhstan and ex-USSR
 - Had part in popular internet casino development
