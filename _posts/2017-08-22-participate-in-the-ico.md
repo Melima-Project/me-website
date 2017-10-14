@@ -31,7 +31,7 @@ You need to select your role in this ICO. You could just support us, or became a
 - Can share valid email (inlude in data field)
 - Applicable for [stackholder share]({{ site.baseurl }}/ico-faq/#stackholdershare)
 
-  > *Check [Revenue sources]()* 
+  > *Check [Creating value for ME Token](https://melima.me/me-value/)* 
 
 We specially created ME Token ICO in a way to make both small investors and serious investors benefit:
 
