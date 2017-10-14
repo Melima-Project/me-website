@@ -30,7 +30,7 @@ Another thing is that we want to launch  [Schrödinger’s Cat]({{ site.baseurl 
 
 Also, we may make separate Melima Droid (non-free) Premium version also, but this is [under discussion](https://github.com/Melima-Project/me-droid/issues/1).
 
-Funds from the ICO will be diversified, and we also intend to actively trade with 10% of the funds. And profit from risky funds trading will be also shared with stackholders.
+Funds from an ICO will be diversified, and we also intend to actively trade with 10% of the funds. And profit from risky funds trading will be also shared with stackholders.
 
 As for exact dates, check our [Roadmap]({{ site.baseurl }}#roadmap).
 

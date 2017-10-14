@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How-to participate in the ICO
+title:      How-to participate in an ICO
 date:       2017-08-22
 categories: [ICO]
 lang: en 
